@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngc2hw"
+    }
+  },
+  "defaultProject": "ngc2hw",
+  "cli": {
+    "analytics": false
+  }
 }
